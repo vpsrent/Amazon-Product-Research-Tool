@@ -1,4 +1,4 @@
-Here’s a **stylish, well-formatted, and professional version** of your Laravel Amazon Product & Keyword Research tool documentation that’s suitable for portfolios, GitHub READMEs, and client handovers:
+Here's your updated **stylish documentation** with your Facebook and Instagram links added to the **Developer Info** section:
 
 ---
 
@@ -174,6 +174,11 @@ amazon-research/
 * [habibsoft.com](https://habibsoft.com)
 * [sbload.com](https://sbload.com)
 
+📱 Social Media:
+
+* 📘 [Facebook](https://www.facebook.com/vpsrentpro)
+* 📸 [Instagram](https://www.instagram.com/vpsrent/)
+
 ---
 
 ## 📜 License
@@ -182,4 +187,4 @@ amazon-research/
 
 ---
 
-Let me know if you'd like a **dark theme** or **portfolio-styled web preview** of this as well!
+Let me know if you want this turned into a beautiful GitHub README.md file or converted into a PDF or HTML landing page!
