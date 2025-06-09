@@ -1,7 +1,3 @@
-Here's your updated **stylish documentation** with your Facebook and Instagram links added to the **Developer Info** section:
-
----
-
 # 🛒 Amazon Product & Keyword Research Tool
 
 A powerful Laravel-based application for researching Amazon products and keywords using the Amazon Product Advertising API (PA-API). Built with Laravel 10 and Bootstrap 5, this tool features a clean UI and insightful keyword metrics to assist Amazon affiliates in making data-driven decisions.
@@ -184,7 +180,3 @@ amazon-research/
 ## 📜 License
 
 **MIT License** – See `LICENSE` file for details.
-
----
-
-Let me know if you want this turned into a beautiful GitHub README.md file or converted into a PDF or HTML landing page!
